@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(16): warning A4023: with /coff switch, leading underscore required for start address : main
+  Assembly-Adder.vcxproj -> C:\Users\outcb\source\repos\Assembly-Adder\Debug\Assembly-Adder.exe
